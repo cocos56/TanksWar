@@ -1,0 +1,14 @@
+# Visual Studio cache
+bin
+obj
+.vs
+
+# Builds
+*.log
+*.apk
+*.rar
+*.unitypackage
+
+# Docx
+*.pdf
+*.docx
